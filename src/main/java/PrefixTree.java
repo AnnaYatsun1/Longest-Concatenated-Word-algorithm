@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @since 0.1
  */
 
-public class LongestCompoundWord {
+public class PrefixTree {
 
     public static void main(String[] args) throws FileNotFoundException {
 
